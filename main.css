@@ -9,7 +9,7 @@ a {
 }
 
 body {
-  background-image: url("images/BG-glitter-TS-63266.jpg");
+  background-image: url("Images/BG-glitter-TS-63266.jpg");
   background-size: cover;
   background-position: top;
   object-fit: cover;
@@ -21,7 +21,7 @@ body {
 }
 
 #hero-banner {
-  background-image: url("images/Loyalty_Program-RO-LP-PC-header-TS-63266.png");
+  background-image: url("Images/Loyalty_Program-RO-LP-PC-header-TS-63266.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: top;
@@ -65,7 +65,7 @@ body {
 
 #stars {
   z-index: 10;
-  background-image: url("images/Loyalty-Program-RO-LP-PC-stars-TS-63266.png");
+  background-image: url("Images/Loyalty-Program-RO-LP-PC-stars-TS-63266.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
@@ -515,7 +515,7 @@ hr {
   }
   .mobile-only {
     display: block;
-    background-image: url("images/Loyalty Program-RO-LP-MB-header-TS-63266.png");
+    background-image: url("Images/Loyalty Program-RO-LP-MB-header-TS-63266.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: top;
